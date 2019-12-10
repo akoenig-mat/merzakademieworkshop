@@ -2,10 +2,10 @@
 # Understanding AI / AI understanding
 ## A critical introduction to machine learning
 
-"Facebook’s artificial intelligence robots shut
+>"Facebook’s artificial intelligence robots shut
 down after they start talking to each other in
 their own language"
-The Independent 31 July 2017
+>The Independent 31 July 2017
 
 Such press releases dominate public opinion
 and mystify current technologies into a utopia
