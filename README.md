@@ -1,6 +1,6 @@
 
-#Understanding AI / AI understanding#
-##A critical introduction to machine learning*##
+#Understanding AI / AI understanding
+##A critical introduction to machine learning
 
 "Facebook’s artificial intelligence robots shut
 down after they start talking to each other in
