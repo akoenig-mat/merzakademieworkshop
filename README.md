@@ -1,4 +1,11 @@
 # merzakademieworkshop
+**Understanding AI / AI understanding**
+*A critical introduction to machine learning*
+
+"Facebook’s artificial intelligence robots shut
+down after they start talking to each other in
+their own language"
+- The Independent 31 July 2017
 
 Such press releases dominate public opinion
 and mystify current technologies into a utopia
@@ -20,26 +27,26 @@ knowledge in Python is advantageous but not
 necessary.
 
 Workshop contents and topics:
-• Theoretical introduction to the history of AI
+- Theoretical introduction to the history of AI
 (from cybernetics to machine learning)
-• Definitions of terms (What is "artificial intelligence" etc.) and the different types of machine
+- Definitions of terms (What is "artificial intelligence" etc.) and the different types of machine
 learning
-• Introduction to Anaconda, Python and the use
+- Introduction to Anaconda, Python and the use
 of Jupyter Notebooks
-• Introduction to NLP (Natural Language Proces-
+- Introduction to NLP (Natural Language Proces-
 sing) by building a project with Word2Vec and
 data-visualization that leads to a basic under-
 standing of machine learning and its possible
 use and dangers.
-• Analyse Twitter data and bulid a „Fakedetector“
-• Critical reflexion with texts by Walter Benjamin,
+- Analyse Twitter data and bulid a „Fakedetector“
+- Critical reflexion with texts by Walter Benjamin,
 Gilbert Simondon, Jaques Derrida and Shoshana Zuboff
 
-• Please prepare a short presentation to
+- Please prepare a short presentation to
 introduce yourself and your interest in AI
 (can also be just an opinion, no research
 needed).
-• Please bring a computer
+- Please bring a computer
 
 Dr . phil . Alexander König is a media theoretician
 and researcher in Berlin. He works as a freelancer
