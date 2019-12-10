@@ -9,26 +9,20 @@ and teaches the theoretical and practical use of
 this technology.
 For this purpose, we use Google's Word2Vec,
 which forms the basis for all language-based
-applications of the company, in order to ana-
-lyze self-selected texts and check to what ex-
-tent these systems actually "understand"
+applications of the company, in order to analyze self-selected texts and check to what extent these systems actually "understand"
 language.
 In addition, we not only examine the technical
-aspects but also pose the question of the un-
-derlying understanding of language and set
-this in relation to traditional language percep-
-tions in cultural theory.
+aspects but also pose the question of the underlying understanding of language and set
+this in relation to traditional language perceptions in cultural theory.
 The aim is an interdisciplinary transfer of
-knowledge, whereby technical content is ex-
-plained by practical examples. Programming
+knowledge, whereby technical content is explained by practical examples. Programming
 knowledge in Python is advantageous but not
 necessary.
 
 Workshop contents and topics:
 • Theoretical introduction to the history of AI
 (from cybernetics to machine learning)
-• Definitions of terms (What is "artificial intelli-
-gence" etc.) and the different types of machine
+• Definitions of terms (What is "artificial intelligence" etc.) and the different types of machine
 learning
 • Introduction to Anaconda, Python and the use
 of Jupyter Notebooks
@@ -37,11 +31,9 @@ sing) by building a project with Word2Vec and
 data-visualization that leads to a basic under-
 standing of machine learning and its possible
 use and dangers.
-• Analyse Twitter data and bulid a „Fakedetec-
-tor“
+• Analyse Twitter data and bulid a „Fakedetector“
 • Critical reflexion with texts by Walter Benjamin,
-Gilbert Simondon, Jaques Derrida and Shosha-
-na Zuboff
+Gilbert Simondon, Jaques Derrida and Shoshana Zuboff
 
 • Please prepare a short presentation to
 introduce yourself and your interest in AI
